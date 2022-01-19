@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Go](https://golang.org/)
 
-- 📝 I regularly write articles on [TBA](TBA)
+- 📝 I regularly write articles to support my writing subscribe @ [Medium](http://cobra16.medium.com/membership)
 
 - 💬 Ask me about **Linux, Cloud, Terraform, Consul, Vault, Nomad**
 
