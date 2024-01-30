@@ -29,9 +29,4 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cobra16319&show_icons=true&locale=en&layout=compact" alt="cobra16319" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cobra16319&show_icons=true&locale=en" alt="cobra16319" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cobra16319&" alt="cobra16319" /></p>
 
